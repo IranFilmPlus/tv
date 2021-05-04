@@ -1,0 +1,14 @@
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dBoqyM4.png" group-title="Farsi",VoA Farsi
+http://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6qeC6rI.png" group-title="Farsi",Iran Int'l
+https://live.playstop.me/LS-63503-4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c9ULtK3.png" group-title="Farsi",Radio Farda
+http://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vi2TrW9.png" group-title="Farsi",Mihan TV (US)
+http://iptv.mihantv.com/live/playlist1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GSbqjdX.png" group-title="Farsi",Rangarang TV (US)
+http://iptv.rangarang.us/live/playlist.m3u8

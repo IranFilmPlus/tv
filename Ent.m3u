@@ -1,0 +1,52 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999224/300x300.png?type=smartCast_channelTile" group-title="English",RedBox Got Talent
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-redboxgottalentglobal/CDN/1280x720_5000000/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_of_Family_Feud.png" group-title="English",RedBox Family
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-redboxfamilyfeud/CDN/1280x720_5000000/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Farsi", T2
+http://51.210.199.44/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Farsi", Maah TV
+http://51.210.199.33/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Farsi",Oxir TV
+http://51.210.199.36/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Farsi",Persiana Entertainment
+http://51.210.199.14/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Farsi",Persiana Game&Tech
+http://51.210.199.25/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Farsi",TIN
+http://51.210.199.31/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e1pnIr2.png" group-title="Farsi",Manoto (GB)
+https://d2rwmwucnr0d10.cloudfront.net/live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Farsi",MBC Persia HD
+https://soltaan.com/iptv/mbcpersiahd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9KzCokk.png" group-title="Farsi",GEM TV
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9KzCokk.png" group-title="Farsi",GEM Bollywood
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_bollywood/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kcFrMog.png" group-title="Farsi",Your Time
+https://hls.yourtime.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Farsi",Ecran TV
+http://51.210.199.40/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mTRFwLf.png" group-title="Farsi",Andisheh TV
+http://livestream.5centscdn.com/cls090117/49ead3a7c6432c5358a086d078110c16.sdp/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W3icc5q.png" group-title="Farsi",Pars TV
+https://livestream.5centscdn.com/cls032817/18e2bf34e2035dbabf48ee2db66405ce.sdp/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Farsi",Kurd HD 4
+http://51.210.199.28/hls/stream.m3u8

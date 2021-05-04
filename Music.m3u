@@ -1,0 +1,38 @@
+#EXTINF:-1 tvg-logo="" group-title="Farsi", Daily Mix
+http://51.210.199.06/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Farsi",Persiana Nostalogy
+http://51.210.199.20/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zIF1h5X.png" group-title="Farsi",Persiana Music
+http://51.210.199.24/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zIF1h5X.png" group-title="English",Persiana Billboard
+http://51.210.199.10/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zIF1h5X.png" group-title="Farsi",PMC
+https://soltaan.com/iptv/pmc.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zIF1h5X.png" group-title="Farsi",Caltex Music (US)
+https://vid1.caltexmusic.com/hls/caltextv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z6pYF3V.png" group-title="Farsi",EBC1 (CA)
+https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/haNhSlv.png" group-title="Farsi",Mifa (New!)
+http://d2e40kvaojifd6.cloudfront.net/stream/mifa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fM4KCk9.png" group-title="Farsi",Radio Javan (US)
+https://stream.rjtv.tv/live/smil:rjtv.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BNvZiiu.png" group-title="Farsi",Tapesh TV (US)
+http://iptv.tapesh.tv/tapesh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bQ89zEc.png" group-title="Farsi",Ganj e Hozour (US) (Opt-1)
+http://topfi.ios.internapcdn.net/topfi/live_1/Test/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bQ89zEc.png" group-title="Farsi",Ganj e Hozour (US) (Opt-2)
+http://topfi.fast.internapcdn.net/topfi/live_1/LowMobile/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ol3HSWB.png" group-title="Farsi",MTC Melli TV (US)
+http://mellitv.tulix.tv:1935/mellitv/myStream.sdp/playlist.m3u8
