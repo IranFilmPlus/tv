@@ -14,8 +14,6 @@ https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 http://51.210.199.23/hls/stream.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="Farsi",Amoozesh
-http://51.210.199.40/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddf8ea0d000120009bcad83/colorLogoPNG.png" group-title="English",Pluto TV Animals
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56b27f85ff3037045055037e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=666&deviceId=56b27f85ff3037045055037e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
@@ -68,7 +66,12 @@ http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
 #EXTINF:-1  group-title="English",Netzero Internet
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d767ae7b456c8cf265ce922/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=301&deviceId=5d767ae7b456c8cf265ce922&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=51.2993&deviceLon=9.4910&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
 
+#EXTINF:-1 group-title="English",NOW
+https://mn-nl.mncdn.com/ezcdn_icc/icc_1/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rtdocumentary.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="English",RT Documentary
+https://rt-doc-gd.secure2.footprint.net/1101_1600Kb.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W87cTZc.png" tvg-url="" group-title="English",Docurama 
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
 
