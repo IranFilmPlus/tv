@@ -7,18 +7,8 @@ http://51.210.199.05/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="English",Onyx
 http://d2e40kvaojifd6.cloudfront.net/stream/onyx/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="English",Persiana HD+
+#EXTINF:-1 tvg-logo="" group-title="Farsi",Persiana HD+
 http://51.210.199.21/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="English",Persiana Family +
-http://51.210.199.13/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="English",Persiana Comedy
-http://51.210.199.27/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="English",Warner TV
-http://203.154.243.89:11205/
-
 
 #EXTINF:-1 tvg-logo="" group-title="English",Flix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
@@ -26,8 +16,29 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="" tvg-url="" group-title="English",&privé HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 
+#EXTINF:-1 tvg-logo="" tvg-url="" group-title="English",MyTime Movie 1
+https://mytime-tcl.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-url="" group-title="English",MyTime Movie 2
+https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-url="" group-title="English",MyTime Movie Brazil
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-url="" group-title="Spanish",MyTime Movie Mexico
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="English",Groovy  
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="English",RunTime Free Movies  
+https://ammoruntime-plex.amagi.tv/playlistR432p.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="English",RunTime Brazil 
+https://runtimebrazil-samsungbrazil.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="English",Sony Movies
+http://mfe.cliptv.az/dash/Sony_Sci_Fi_SD.ism/playlist.mpd
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhENbFXmvOdzGoxk8fAusY3OtWTdpLd_KiGuV5wPw=s900-c-k-c0x00ffffff-no-rj" group-title="English",RedBox Maverick Movies
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/1280x720_5000000/index.m3u8
@@ -53,11 +64,17 @@ https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/
 #EXTINF:-1 tvg-logo="" group-title="English", MBC Action
 https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="English", Stirr Movies
+https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/9b0cc12d-a2e0-4a7b-bec4-31c00a4c499f-small3x1_STIRR_Logo_0520_Cinehouse_1920x1080_EPG.png" group-title="English",CineHouse
 https://dai.google.com/linear/hls/event/28oUp4GcQ-u49U4_jjC4Iw/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DTXQ3Pc.png" group-title="English",Moviesphere Free
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="English", New K-Movies
+https://newidco-newmovies-1.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/b69e56d9-8aac-4cff-94e2-4d848cd44ead-small3x1_stirr_0120_epg_CineLife_1920x1080.png" group-title="English",CineLife
 https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
@@ -67,6 +84,9 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/2ece48481d5191baae1d3dc550fe6c99ed59f7f87d90c096ab4ab8a9021efb89.png" group-title="English",Filmrise Sci-Fi
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/540x360_700000/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" tvg-url="" group-title="English",Filmrise Action
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmriseaction/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81VZaxj6a1L._SY355_.png" group-title="English",Filmrise Family
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefamily/CDN/1280x720_5000000/chunklist.m3u8
@@ -88,6 +108,27 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="English",Film Stream
 https://b58cbafb283b4d0b9610407d0e766d64.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_Filmstream/29d2a5e9-0e59-4a8b-b906-0f82d8fa81b8/5.m3u8
+
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/ab1857ba-26d5-6f07-0e5d-4c45700e2389-ClassicMovies_featured.jpg" group-title="English",Pluto Film Stream
+https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="" group-title="English",Pluto TV Cine
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-logo="" group-title="English",Pluto TV Crime
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-logo="" group-title="English",Pluto TV Action
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed1ff5c39700007e2204a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-logo="" group-title="English",Pluto Movie England
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad8d3a31b95267e225e4e09/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=50&deviceId=5ad8d3a31b95267e225e4e09&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="" group-title="English",Pluto TV Paramount
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceUA=samsung%2FSM-T720%2F10&advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&us_privacy=1YNY&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile%20TV%20Plus&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="" group-title="English",Warner TV
+http://203.154.243.89:11205/
 
 #EXTINF:-1 tvg-logo="" group-title="English",Scream Fest
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
@@ -116,17 +157,50 @@ https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="English",STIRR Westerns
 https://dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/klTg1kk.png" group-title="English",Prime Time Drama
+https://nrpus.bozztv.com/36bay2/gusa-ptd/index.m3u8
+
+#EXTINF:-1 tvg-id="CONtv.us" tvg-name="CONtv" tvg-country="US" tvg-language="English" tvg-logo="https://p14.zdassets.com/hc/settings_assets/667658/200059238/nUGjGiWPOdPJxcFva0eEpw-Contv-logoBig.png" tvg-url="" group-title="English",CONtv (1080p)
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/9625f6a4-43d3-46c2-a87a-8592261c0996-small3x1_stirr_1219_epg_stirrblackcinema_1920x1080.png" group-title="English",STIRR Black Cinema
 https://dai.google.com/linear/hls/event/9WuQ_LseR12mMx2-QW41XQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="English",Movie Kingdom
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="Movie",TVS Western Movies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="English",TVS Western Movies
 http://nrpus.bozztv.com/36bay2/gusa-tvswesternmovies/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="Movie",TVS Drive-in Movie
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="English",TVS Drive-in Movie
 http://nrpus.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8
+
+#EXTINF:-1 tvg-id="BizzarroMovies.it" tvg-name="Bizzarro Movies" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/W9zQhyr.jpg" tvg-url="" group-title="Italian",Bizzarro Movies
+https://minerva-bizzarromovies-1-it.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CinemaSegreto.it" tvg-name="Cinema Segreto" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/E9PCiwM.png" tvg-url="" group-title="Italian",Cinema Segreto
+https://minerva-cinemasegreto-1-it.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AtresSeries.it" tvg-name="Atres Series" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/g5iBSq4.png" tvg-url="" group-title="Italian",Atres Series
+https://atresmedia-atreseries-1-it.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RakutenTVActionMoviesItaly.es" tvg-name="Rakuten TV Action Movies Italy" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Italian",Rakuten TV Action Movies Italy
+https://rakuten-actionmovies-6-it.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RakutenTVComedyMoviesItaly.es" tvg-name="Rakuten TV Comedy Movies Italy" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/o1qKoje.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Italian",Rakuten TV Comedy Movies Italy
+https://rakuten-comedymovies-6-it.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RakutenTVDramaItaly.es" tvg-name="Rakuten TV Drama Italy" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/oMXfdkV.png" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Italian",Rakuten TV Drama Italy
+https://rakuten-tvshows-6-it.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RakutenTVFamilyMoviesItaly.es" tvg-name="Rakuten TV Family Movies Italy" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/hboiinD.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Italian",Rakuten TV Family Movies Italy
+https://rakuten-family-6-it.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RakutenTVSpotlightItaly.es" tvg-name="Rakuten TV Spotlight Italy" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/TUDZvHw.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Italian",Rakuten TV Spotlight Italy
+https://rakuten-spotlight-6-it.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="English",STAR MOVIEMI HD
+https://sonar.sinclair.wurl.com/manifest/3000.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="French",Kuriakos Cine
 http://c2.manasat.com:1935/kcine/kcine3/master.m3u8
@@ -139,6 +213,12 @@ http://51.210.199.15/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Farsi",Persiana Family
 http://51.210.199.19/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Farsi",Persiana Family +
+http://51.210.199.13/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Farsi",Persiana Comedy
+http://51.210.199.27/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Farsi",Persiana Classic
 http://51.210.199.26/hls/stream.m3u8
@@ -181,8 +261,24 @@ http://51.210.199.42/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="English",CineFilm
 https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mono.m3u8
 
-
 #EXTINF:-1 tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russian",Shot TV
 https://ch.iptvmate.net/5e933c221b143b0b9d00807a.m3u8
 
+#EXTINF:-1 tvg-id="ATVFilmzone.am" tvg-name="ATV Filmzone" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/uWBrDpV.png" tvg-url="" group-title="Russian",ATV Filmzone (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s48/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Spanish",RunTime Mexico 
+https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Spanish",RunTime Spain 
+https://runtimeespana-samsungspain.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Russian",Sony SiFi
+http://mfe.cliptv.az/dash/Sony_Sci_Fi_SD.ism/playlist.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Russian",Sony Turbo
+http://mfe.cliptv.az/dash/Sony_Turbo_SD.ism/playlist.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Spanish",Sony Novelas
+https://sony-novelas-1.vizio.wurl.com/manifest/playlist.m3u8
