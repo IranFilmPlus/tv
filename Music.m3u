@@ -36,3 +36,6 @@ http://topfi.fast.internapcdn.net/topfi/live_1/LowMobile/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ol3HSWB.png" group-title="Farsi",MTC Melli TV (US)
 http://mellitv.tulix.tv:1935/mellitv/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EuroIndieMusicChartTV.it" tvg-name="Euro Indie Music Chart TV" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/UDFBYpN.png" tvg-url="" group-title="Italian",Euro Indie Music Chart TV (360p)
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
