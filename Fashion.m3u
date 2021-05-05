@@ -1,2 +1,7 @@
 #EXTINF:-1 tvg-logo="https://www.gemonline.tv/Assets/channels-box/gemusa.png?14" group-title="English",GEM Academy 
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_usa/playlist_960x540_2000k.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="English",FTV Midnight Secrets http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="English",Fashion TV HD
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
