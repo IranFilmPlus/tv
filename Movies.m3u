@@ -7,6 +7,9 @@ http://51.210.199.05/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="English",Onyx
 http://d2e40kvaojifd6.cloudfront.net/stream/onyx/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4rzSB71.png" group-title="English",Cinefilm
+https://gintna100.tulix.tv/gin_live/cine-film/8a36f29eb418f3c9f25c8e1e76e2c93d/60ce16e2/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Farsi",Persiana HD+
 http://51.210.199.21/hls/stream.m3u8
 
