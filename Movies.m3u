@@ -1,13 +1,13 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4rzSB71.png" group-title="English",24 Box TV
 https://hls.247box.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="English",Ava Family
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-HmeTVFTgWZI/YMzzaOeOknI/AAAAAAAAB-A/a1AucpyThiQq14SHAlJ3LyXVk9eiMcEKgCLcBGAsYHQ/s0/avafamily-vipotv-min.png" group-title="English",Ava Family
 http://51.210.199.05/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="English",Onyx
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-YxIUP2SdnwU/YMzzuGVrPHI/AAAAAAAAB-I/m5PWXRCYJW06DRInehFBmVXsHuS3bdCEQCLcBGAsYHQ/s277/onyx.png" group-title="English",Onyx
 http://d2e40kvaojifd6.cloudfront.net/stream/onyx/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="English",Cinefilm
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-003uppEo2RU/YMz0Bh3U64I/AAAAAAAAB-Q/AqJ6udSMdNUaXI-1gmPd3AuUSTCEPQLCgCLcBGAsYHQ/s512/cinefilm.jpg" group-title="English",Cinefilm
 https://gintna100.tulix.tv/gin_live/cine-film/8a36f29eb418f3c9f25c8e1e76e2c93d/60ce16e2/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Farsi",Persiana HD+
