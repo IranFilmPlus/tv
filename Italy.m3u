@@ -5,10 +5,25 @@ http://ott-cdn.ucom.am/s29/index.m3u8?fluxustv.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am:80/s29/04.m3u8
 
+#EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 2" tvg-country="IT" tvg-language="Italian" tvg-logo="" tvg-url="" group-title="ITALY",Rai 2
+http://stream.tvtap.net:8081/live/it-rai2.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Raitres.it" group-title="ITALY" tvg-logo="http://logo.premium-ott.com:8000/logo/rai3.png", RAI 3 http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
 
 #EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/rai3.png" group-title="ITALY",Rai 3_2
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 4" tvg-country="IT" tvg-language="Italian" tvg-logo="" tvg-url="" group-title="ITALY",Rai 4
+http://stream.tvtap.net:8081/live/it-rai4.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 5" tvg-country="IT" tvg-language="Italian" tvg-logo="" tvg-url="" group-title="ITALY",Rai 5
+http://stream.tvtap.net:8081/live/it-rai5.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ITALY",Rai Movie
+http://stream.tvtap.net:8081/live/it-raimovie.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ITALY",Rai Premium
+http://stream.tvtap.net:8081/live/it-raipremium.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rai_News_24_-_Logo_2013.svg/1280px-Rai_News_24_-_Logo_2013.svg.png" group-title="ITALY",Rai News 24
 http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=0000001
