@@ -1,23 +1,28 @@
-#EXTINF:-1 tvg-logo="" group-title="English",MBC 2
-https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_3.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/MBC_Max_logo.png" group-title="English",MBC Maxx
-https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="English", MBC Action
-https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4rzSB71.png" group-title="English",24 Box TV
 https://hls.247box.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-HmeTVFTgWZI/YMzzaOeOknI/AAAAAAAAB-A/a1AucpyThiQq14SHAlJ3LyXVk9eiMcEKgCLcBGAsYHQ/s0/avafamily-vipotv-min.png" group-title="English",Ava Family
 http://51.210.199.05/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-YxIUP2SdnwU/YMzzuGVrPHI/AAAAAAAAB-I/m5PWXRCYJW06DRInehFBmVXsHuS3bdCEQCLcBGAsYHQ/s277/onyx.png" group-title="English",Onyx
-http://d2e40kvaojifd6.cloudfront.net/stream/onyx/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-003uppEo2RU/YMz0Bh3U64I/AAAAAAAAB-Q/AqJ6udSMdNUaXI-1gmPd3AuUSTCEPQLCgCLcBGAsYHQ/s512/cinefilm.jpg" group-title="English",Cinefilm
-https://gintna100.tulix.tv/gin_live/cine-film/8a36f29eb418f3c9f25c8e1e76e2c93d/60ce16e2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Farsi",MBC Persia
+https://embed.tvksa.com/m3u8/index.m3u8?aHR0cHM6Ly9zaGxzLW1iY3BlcnNpYS1wcm9kLWR1Yi5zaGFoaWQubmV0L291dC92MS9iZGM3Y2QwZDk5MGU0YzU0ODA4NjMyYTUyYzM5Njk0Ni9pbmRleC5tM3U4
+
+#EXTINF:-1 tvg-logo="" group-title="English",MBC 2
+http://multies.xyz:8000/live/LiVeMBc-Fuckyou-thief/B4fth7dfss4q23dFSEfs/106.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/MBC_Max_logo.png" group-title="English",MBC Maxx
+http://multies.xyz:8000/live/LiVeMBc-Fuckyou-thief/B4fth7dfss4q23dFSEfs/111.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="English", MBC Action
+http://multies.xyz:8000/live/LiVeMBc-Fuckyou-thief/B4fth7dfss4q23dFSEfs/110.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="English",GEM Film
+https://stream-live.gemonline.tv/live/gemfilm/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="English",Persiana Cinema
+http://51.210.199.15/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ekCYHakiq_g/YMz3yh3SUCI/AAAAAAAAB_k/16S_ASAzNn836K3ZGp5DluKzliHXyhETwCLcBGAsYHQ/s132/persiana.jpg" group-title="English",Persiana HD+
 http://51.210.199.21/hls/stream.m3u8
@@ -317,3 +322,9 @@ http://mfe.cliptv.az/dash/Sony_Turbo_SD.ism/playlist.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="Spanish",Sony Novelas
 https://sony-novelas-1.vizio.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-YxIUP2SdnwU/YMzzuGVrPHI/AAAAAAAAB-I/m5PWXRCYJW06DRInehFBmVXsHuS3bdCEQCLcBGAsYHQ/s277/onyx.png" group-title="English",Onyx
+http://d2e40kvaojifd6.cloudfront.net/stream/onyx/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-003uppEo2RU/YMz0Bh3U64I/AAAAAAAAB-Q/AqJ6udSMdNUaXI-1gmPd3AuUSTCEPQLCgCLcBGAsYHQ/s512/cinefilm.jpg" group-title="English",Cinefilm
+https://gintna100.tulix.tv/gin_live/cine-film/8a36f29eb418f3c9f25c8e1e76e2c93d/60ce16e2/index.m3u8
