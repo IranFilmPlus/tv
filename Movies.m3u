@@ -24,8 +24,7 @@ http://multies.xyz:8000/live/LiVeMBc-Fuckyou-thief/B4fth7dfss4q23dFSEfs/111.m3u8
 http://multies.xyz:8000/live/LiVeMBc-Fuckyou-thief/B4fth7dfss4q23dFSEfs/110.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Farsi",MBC Persia
-https://embed.tvksa.com/m3u8/index.m3u8?aHR0cHM6Ly9zaGxzLW1iY3BlcnNpYS1wcm9kLWR1Yi5zaGFoaWQubmV0L291dC92MS9iZGM3Y2QwZDk5MGU0YzU0ODA4NjMyYTUyYzM5Njk0Ni9pbmRleC5tM3U4
-
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="English",GEM Film
 https://stream-live.gemonline.tv/live/gemfilm/index.m3u8
@@ -44,6 +43,9 @@ https://dai.google.com/linear/hls/event/28oUp4GcQ-u49U4_jjC4Iw/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/b69e56d9-8aac-4cff-94e2-4d848cd44ead-small3x1_stirr_0120_epg_CineLife_1920x1080.png" group-title="English",CineLife
 https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Farsi",MBC Persia
+https://embed.tvksa.com/m3u8/index.m3u8?aHR0cHM6Ly9zaGxzLW1iY3BlcnNpYS1wcm9kLWR1Yi5zaGFoaWQubmV0L291dC92MS9iZGM3Y2QwZDk5MGU0YzU0ODA4NjMyYTUyYzM5Njk0Ni9pbmRleC5tM3U4
 
 #EXTINF:-1 tvg-logo="" group-title="English",RunTime Free Movies  
 https://ammoruntime-plex.amagi.tv/playlistR432p.m3u8
