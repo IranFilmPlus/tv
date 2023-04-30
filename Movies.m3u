@@ -4,6 +4,9 @@ http://ott-cdn.ucom.am/s29/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1280px-Rai_1_-_Logo_2016.svg.png"  group-title="Italian",Rai 1_2
 http://ott-cdn.ucom.am:80/s29/04.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Italian",Rakuten Top Free Italy
+https://rakuten-topfree-6-it.plex.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Italian",Rakuten TV Shows Italy
 https://rakuten-tvshows-6-eu.rakuten.wurl.tv/playlist.m3u8
 
@@ -24,6 +27,9 @@ https://minerva-bizzarromovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E9PCiwM.png" tvg-url="" group-title="Italian",Cinema Segreto
 https://minerva-cinemasegreto-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="English",Rakuten Top Free UK
+https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="English",Rakuten TV Shows UK
 https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -73,6 +79,9 @@ https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c3969
 #EXTINF:-1 tvg-logo="" group-title="English",FilmStreams (720p)
 https://spi-filmstream-1-eu.rakuten.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Spanish",Rakuten Top Free Spain
+https://rakuten-topfree-2-es.plex.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Spanish",Rakuten TV Shows Spain
 https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
 
@@ -88,6 +97,9 @@ https://rakuten-family-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Spanish",Rakuten Spotlight Spain 
 https://rakuten-spotlight-2-eu.rakuten.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="French",Rakuten Top Free France
+https://rakuten-topfree-7-fr.plex.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="French",Rakuten TV Shows France
 https://rakuten-tvshows-7-eu.rakuten.wurl.tv/playlist.m3u8
 
@@ -102,6 +114,9 @@ https://rakuten-family-7-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="French",Rakuten Spotlight France 
 https://rakuten-spotlight-7-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="German",Rakuten Top Free Germany
+https://rakuten-topfree-3-de.plex.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="German",Rakuten TV Shows Germany
 https://rakuten-tvshows-3-eu.rakuten.wurl.tv/playlist.m3u8
