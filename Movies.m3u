@@ -4,23 +4,41 @@ http://ott-cdn.ucom.am/s29/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1280px-Rai_1_-_Logo_2016.svg.png"  group-title="Italian",Rai 1_2
 http://ott-cdn.ucom.am:80/s29/04.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Italian",Rakuten Top Free Italy
+#EXTINF:-1 tvg-logo="" group-title="Italian",Rakuten Top Free Italy 1
+https://rakuten-topfree-6-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Italian",Rakuten Top Free Italy 2
 https://rakuten-topfree-6-it.plex.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Italian",Rakuten TV Shows Italy
+#EXTINF:-1 tvg-logo="" group-title="Italian",Rakuten TV Shows Italy 1
 https://rakuten-tvshows-6-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Italian", Rakuten Comedy Movies Italy
+#EXTINF:-1 tvg-logo="" group-title="Italian",Rakuten TV Shows Italy 2
+https://rakuten-tvshows-6-it.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Italian", Rakuten Comedy Movies Italy 1
 https://rakuten-comedymovies-6-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Italian", Rakuten Action Movies Italy
+#EXTINF:-1 tvg-logo="" group-title="Italian", Rakuten Comedy Movies Italy 2
+https://rakuten-comedymovies-6-it.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Italian", Rakuten Action Movies Italy 1
 https://rakuten-actionmovies-6-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="Italian",Rakuten Family Italy 
+#EXTINF:-1 tvg-logo="" group-title="Italian", Rakuten Action Movies Italy 2
+https://rakuten-actionmovies-6-it.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="Italian",Rakuten Family Italy 1
 https://rakuten-family-6-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Italian",Rakuten Spotlight Italy 
+#EXTINF:-1 tvg-logo=""group-title="Italian",Rakuten Family Italy 1
+https://rakuten-family-6-it.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Italian",Rakuten Spotlight Italy 1
 https://rakuten-spotlight-6-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Italian",Rakuten Spotlight Italy 2
+https://rakuten-spotlight-6-it.plex.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W9zQhyr.jpg" group-title="Italian",Bizzarro Movies
 https://minerva-bizzarromovies-1-eu.rakuten.wurl.tv/playlist.m3u8
