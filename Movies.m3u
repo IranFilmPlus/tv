@@ -1,9 +1,45 @@
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1200px-Rai_1_-_Logo_2016.svg.png" group-title="ITALY",Rai 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1200px-Rai_1_-_Logo_2016.svg.png" group-title="Italian",Rai 1
 http://ott-cdn.ucom.am/s29/index.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 1" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1280px-Rai_1_-_Logo_2016.svg.png" tvg-url="" group-title="ITALY",Rai 1_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1280px-Rai_1_-_Logo_2016.svg.png"  group-title="Italian",Rai 1_2
 http://ott-cdn.ucom.am:80/s29/04.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Italian",Rakuten TV Shows Italy
+https://rakuten-tvshows-6-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Italian", Rakuten Comedy Movies Italy
+https://rakuten-comedymovies-6-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Italian", Rakuten Action Movies Italy
+https://rakuten-actionmovies-6-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="Italian",Rakuten Family Italy 
+https://rakuten-family-6-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Italian",Rakuten Spotlight Italy 
+https://rakuten-spotlight-6-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W9zQhyr.jpg" group-title="Italian",Bizzarro Movies
+https://minerva-bizzarromovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E9PCiwM.png" tvg-url="" group-title="Italian",Cinema Segreto
+https://minerva-cinemasegreto-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="English",Rakuten TV Shows UK
+https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="English",Rakuten Comedy Movies UK 
+https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="English",Rakuten Action Movies UK 
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="English",Rakuten Family UK 
+https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="English",Rakuten Spotlight UK 
+https://rakuten-spotlight-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4rzSB71.png" group-title="English",24 Box TV
 https://hls.247box.live/hls/stream.m3u8
@@ -17,23 +53,75 @@ https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m
 #EXTINF:-1 tvg-logo="" group-title="English",HBO
 http://190.171.101.36/HBO/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="English",GEM Film
-https://stream-live.gemonline.tv/live/gemfilm/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ekCYHakiq_g/YMz3yh3SUCI/AAAAAAAAB_k/16S_ASAzNn836K3ZGp5DluKzliHXyhETwCLcBGAsYHQ/s132/persiana.jpg" group-title="English",Persiana HD+
 http://51.210.199.21/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="English",Persiana
+#EXTINF:-1 tvg-logo="" group-title="Farsi",Persiana Family
 http://51.210.199.19/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="English",Persiana Cinema
 http://168.119.248.171/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Farsi",Persiana One
+http://51.210.199.21/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="English",Groovy  
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Farsi",MBC Persia
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="English",FilmStreams (720p)
+https://spi-filmstream-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Spanish",Rakuten TV Shows Spain
+https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Spanish", Rakuten Comedy Movies Spain
+https://rakuten-comedymovies-2-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Spanish", Rakuten Action Movies Spain
+https://rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="Spanish",Rakuten Family Spain 
+https://rakuten-family-2-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Spanish",Rakuten Spotlight Spain 
+https://rakuten-spotlight-2-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="German",Rakuten TV Shows Germany
+https://rakuten-tvshows-3-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="German", Rakuten Comedy Movies Germany
+https://rakuten-comedymovies-3-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="German", Rakuten Action Movies Germany
+https://rakuten-actionmovies-3-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="German",Rakuten Family Germany 
+https://rakuten-family-3-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="German",Rakuten Spotlight Germany 
+https://rakuten-spotlight-3-eu.rakuten.wurl.tv/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Farsi",Persiana Family +
+http://51.210.199.13/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Farsi",Persiana Comedy
+http://51.210.199.27/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Farsi",Persiana Classic
+http://51.210.199.26/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Farsi",Persiana Junior
+http://51.210.199.18/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Farsi",Persiana Iranian
+http://51.210.199.22/hls/stream.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/9b0cc12d-a2e0-4a7b-bec4-31c00a4c499f-small3x1_STIRR_Logo_0520_Cinehouse_1920x1080_EPG.png" group-title="English",CineHouse
 https://dai.google.com/linear/hls/event/28oUp4GcQ-u49U4_jjC4Iw/master.m3u8
@@ -208,8 +296,7 @@ http://203.154.243.89:11205/
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="Russian",Sony Movies
-http://mfe.cliptv.az/dash/Sony_Sci_Fi_SD.ism/playlist.mpd
+
 
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/ab1857ba-26d5-6f07-0e5d-4c45700e2389-ClassicMovies_featured.jpg" group-title="English",Pluto horror_2
 https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
@@ -224,71 +311,26 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad8d3a31b95267e225
 #EXTINF:-1 tvg-logo="" group-title="English",Pluto TV Paramount_2
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceUA=samsung%2FSM-T720%2F10&advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&us_privacy=1YNY&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile%20TV%20Plus&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="CONtv.us" tvg-name="CONtv" tvg-country="US" tvg-language="English" tvg-logo="https://p14.zdassets.com/hc/settings_assets/667658/200059238/nUGjGiWPOdPJxcFva0eEpw-Contv-logoBig.png" tvg-url="" group-title="English",CONtv (1080p)
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8
 
 
 
-#EXTINF:-1 tvg-id="BizzarroMovies.it" tvg-name="Bizzarro Movies" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/W9zQhyr.jpg" tvg-url="" group-title="Italian",Bizzarro Movies
-https://minerva-bizzarromovies-1-it.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CinemaSegreto.it" tvg-name="Cinema Segreto" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/E9PCiwM.png" tvg-url="" group-title="Italian",Cinema Segreto
-https://minerva-cinemasegreto-1-it.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AtresSeries.it" tvg-name="Atres Series" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/g5iBSq4.png" tvg-url="" group-title="Italian",Atres Series
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g5iBSq4.png" group-title="Italian",Atres Series
 https://atresmedia-atreseries-1-it.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RakutenTVActionMoviesItaly.es" tvg-name="Rakuten TV Action Movies Italy" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Italian",Rakuten TV Action Movies Italy
-https://rakuten-actionmovies-6-it.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RakutenTVComedyMoviesItaly.es" tvg-name="Rakuten TV Comedy Movies Italy" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/o1qKoje.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Italian",Rakuten TV Comedy Movies Italy
-https://rakuten-comedymovies-6-it.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RakutenTVDramaItaly.es" tvg-name="Rakuten TV Drama Italy" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/oMXfdkV.png" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Italian",Rakuten TV Drama Italy
-https://rakuten-tvshows-6-it.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RakutenTVFamilyMoviesItaly.es" tvg-name="Rakuten TV Family Movies Italy" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/hboiinD.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Italian",Rakuten TV Family Movies Italy
-https://rakuten-family-6-it.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RakutenTVSpotlightItaly.es" tvg-name="Rakuten TV Spotlight Italy" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/TUDZvHw.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Italian",Rakuten TV Spotlight Italy
-https://rakuten-spotlight-6-it.samsung.wurl.com/manifest/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="French",Kuriakos Cine
-http://c2.manasat.com:1935/kcine/kcine3/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qFLq6lE.png" group-title="French",TFI  
-https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Farsi",Persiana Cinema
-http://51.210.199.15/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Farsi",Persiana Family
-http://51.210.199.19/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Farsi",Persiana Family +
-http://51.210.199.13/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Farsi",Persiana Comedy
-http://51.210.199.27/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Farsi",Persiana Classic
-http://51.210.199.26/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Farsi",Persiana Junior
-http://51.210.199.18/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Farsi",Persiana Iranian
-http://51.210.199.22/hls/stream.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="Farsi",Ava Series
+http://51.210.199.04/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Farsi",SL 1
 http://51.210.199.03/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Farsi",SL 2
 http://51.210.199.02/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Farsi", Test 12
-http://51.210.199.12/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvlogo.xyz/iran/gem-comedy.png" group-title="Farsi",GEM Comedy [Geo-blocked]
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_comedy/playlist_960x540_2000k.m3u8
@@ -304,19 +346,8 @@ https://d2e40kvaojifd6.cloudfront.net/stream/gem_film/playlist_960x540_2000k.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9KzCokk.png" group-title="Farsi",GEM Series 
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_series/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Farsi",Ava Series
-http://51.210.199.04/hls/stream.m3u8
-
-
 #EXTINF:-1 tvg-logo="" group-title="English",CineFilm
 https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russian",Shot TV
-https://ch.iptvmate.net/5e933c221b143b0b9d00807a.m3u8
-
-#EXTINF:-1 tvg-id="ATVFilmzone.am" tvg-name="ATV Filmzone" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/uWBrDpV.png" tvg-url="" group-title="Russian",ATV Filmzone (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s48/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Spanish",RunTime Mexico 
 https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
@@ -324,21 +355,11 @@ https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Spanish",RunTime Spain 
 https://runtimeespana-samsungspain.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Russian",Sony SiFi
-http://mfe.cliptv.az/dash/Sony_Sci_Fi_SD.ism/playlist.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="Russian",Sony Turbo
-http://mfe.cliptv.az/dash/Sony_Turbo_SD.ism/playlist.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="Spanish",Sony Novelas
-https://sony-novelas-1.vizio.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-YxIUP2SdnwU/YMzzuGVrPHI/AAAAAAAAB-I/m5PWXRCYJW06DRInehFBmVXsHuS3bdCEQCLcBGAsYHQ/s277/onyx.png" group-title="English",Onyx
 http://d2e40kvaojifd6.cloudfront.net/stream/onyx/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-003uppEo2RU/YMz0Bh3U64I/AAAAAAAAB-Q/AqJ6udSMdNUaXI-1gmPd3AuUSTCEPQLCgCLcBGAsYHQ/s512/cinefilm.jpg" group-title="English",Cinefilm
 https://gintna100.tulix.tv/gin_live/cine-film/8a36f29eb418f3c9f25c8e1e76e2c93d/60ce16e2/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="" group-title="English",MBC 2
 http://multies.xyz:8000/live/LiVeMBc-Fuckyou-thief/B4fth7dfss4q23dFSEfs/106.m3u8
@@ -349,5 +370,7 @@ http://multies.xyz:8000/live/LiVeMBc-Fuckyou-thief/B4fth7dfss4q23dFSEfs/111.m3u8
 #EXTINF:-1 tvg-logo="" group-title="English", MBC Action
 http://multies.xyz:8000/live/LiVeMBc-Fuckyou-thief/B4fth7dfss4q23dFSEfs/110.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="English", Test
-https://216.66.42.29:443/CineFilm/CineFilm_Low.m3u8?user=sglsxhrouq1sjg1lbh3f5yukmgep&session=fce8265a8382edd64f1f73eeb051e91795aa91bcbdc187d6149e91d4de48bb277afe1e3ef5f7a274015732122730bcce48426a231141ecf3de2a9a15d4e21705&hlsid=HTTP_ID_187089
+
+
+#EXTINF:-1 tvg-logo="" group-title="English",GEM Film
+https://stream-live.gemonline.tv/live/gemfilm/index.m3u8
