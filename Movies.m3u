@@ -64,6 +64,9 @@ http://190.171.101.36/HBO/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="English",HBO 2
 http://41.205.93.154/HBO/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="English",Groovy  
+https://web.onair-radio.eu/groovytv/groovytv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ekCYHakiq_g/YMz3yh3SUCI/AAAAAAAAB_k/16S_ASAzNn836K3ZGp5DluKzliHXyhETwCLcBGAsYHQ/s132/persiana.jpg" group-title="English",Persiana HD+
 https://euhls.persiana.live/hls/stream.m3u8
 
@@ -1586,9 +1589,6 @@ https://rakuten-actionmovies-6-it.plex.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Italian",Rakuten Spotlight Italy 2
 https://rakuten-spotlight-6-it.plex.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="English",Groovy  
-http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DTXQ3Pc.png" group-title="English",Moviesphere
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
