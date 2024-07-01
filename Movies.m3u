@@ -67,6 +67,20 @@ http://41.205.93.154/HBO/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="English",HBO 2
 https://fl5.moveonjoy.com/HBO_2/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="English",MBC 2
+https://airmaxtv.online/ssiptv2024/ssiptv2025/345.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="English", MBC Action
+https://airmaxtv.online/ssiptv2024/ssiptv2025/346.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="English", MBC Action-2
+http://154.58.202.18:8080/mbc2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/MBC_Max_logo.png" group-title="English",MBC Maxx
+https://airmaxtv.online/ssiptv2024/ssiptv2025/347.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="" group-title="English",Groovy  
 https://web.onair-radio.eu/groovytv/groovytv/playlist.m3u8
 
@@ -1693,11 +1707,4 @@ http://d2e40kvaojifd6.cloudfront.net/stream/onyx/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-003uppEo2RU/YMz0Bh3U64I/AAAAAAAAB-Q/AqJ6udSMdNUaXI-1gmPd3AuUSTCEPQLCgCLcBGAsYHQ/s512/cinefilm.jpg" group-title="English",Cinefilm
 https://gintna100.tulix.tv/gin_live/cine-film/8a36f29eb418f3c9f25c8e1e76e2c93d/60ce16e2/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="English",MBC 2
-http://multies.xyz:8000/live/LiVeMBc-Fuckyou-thief/B4fth7dfss4q23dFSEfs/106.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/MBC_Max_logo.png" group-title="English",MBC Maxx
-http://multies.xyz:8000/live/LiVeMBc-Fuckyou-thief/B4fth7dfss4q23dFSEfs/111.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="English", MBC Action
-http://multies.xyz:8000/live/LiVeMBc-Fuckyou-thief/B4fth7dfss4q23dFSEfs/110.m3u8
