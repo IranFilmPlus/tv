@@ -76,54 +76,47 @@ https://familyhls.avatv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/gUoenCGAE0avIT2WU0C7FbjWLLDX1ymI2bmAyjZ8Ez09sB_CemD099MYRRL_pK7mc9LsRYmuXw3ub8pk1mnaf5901GhVWPC8zBneMUvtVULpGxruilkSncXeuElG8JI" group-title="English",Dubai One
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="English",HBO
+#EXTINF:-1 tvg-logo="" group-title="English",MBC 2
+https://m3u.iranvids.com/mbc02/output.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="English",MBC 2-2
+http://154.58.202.185:8000/play/a049
+
+#EXTINF:-1,GEM Onyx
+http://175.107.244.52:4457/play/a05l/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="English",HBO 1
 http://41.205.93.154/HBO/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="English",HBO 2
 https://fl5.moveonjoy.com/HBO_2/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="English",MBC 2
-https://m3u.iranvids.com/mbc02/output.m3u8
+#EXTINF:-1,017 HBO
+http://138.219.58.234:8112/play/017
 
-#EXTINF:-1 tvg-logo="" group-title="English", MBC Action
-https://airmaxtv.online/ssiptv2024/ssiptv2025/346.m3u8
+#EXTINF:-1,018 HBO FAMILY
+http://138.219.58.234:8112/play/018
 
-#EXTINF:-1 tvg-logo="" group-title="English", MBC Action-2
-http://154.58.202.18:8080/mbc2/playlist.m3u8
+#EXTINF:-1,019 HBO PLUS
+http://138.219.58.234:8112/play/019
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/MBC_Max_logo.png" group-title="English",MBC Maxx
-https://airmaxtv.online/ssiptv2024/ssiptv2025/347.m3u8
+#EXTINF:-1,020 HBO XTREME HD
+http://138.219.58.234:8112/play/020
 
+#EXTINF:-1,021 HBO 2
+http://138.219.58.234:8112/play/021
 
+#EXTINF:-1,024 DISCOVERY CHANNEL HD
+http://138.219.58.234:8112/play/024
+
+#EXTINF:-1,025 ANIMAL PLANET HD
+http://138.219.58.234:8112/play/025
+
+#EXTINF:-1,027 NAT GEO HD
+http://138.219.58.234:8112/play/027
 
 #EXTINF:-1 tvg-logo="" group-title="English",Groovy  
 https://web.onair-radio.eu/groovytv/groovytv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ekCYHakiq_g/YMz3yh3SUCI/AAAAAAAAB_k/16S_ASAzNn836K3ZGp5DluKzliHXyhETwCLcBGAsYHQ/s132/persiana.jpg" group-title="English",Persiana HD+
-https://euhls.persiana.live/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Farsi",Persiana Family
-https://familyhls.persiana.live/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="English",Persiana Cinema
-https://cinehls.persiana.live/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Farsi",Persiana One
-https://onehls.persiana.live/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Farsi",Persiana Latino
-https://latinohls.persiana.live/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Farsi",Persiana Comedy
-https://comedyhls.persiana.live/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Farsi",Persiana Sience
-https://scihls.persiana.live/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Farsi",Persiana Two
-https://twohls.persiana.live/hls/stream.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="" group-title="Farsi",MBC Persia
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
@@ -136,6 +129,38 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-electricnow/CDN/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="English",FilmStreams (720p)
 https://spi-filmstream-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="English",Paramount
+http://fortv.cc:8080/ZUq2mM/919347/46694
+
+#EXTINF:-1 tvg-logo="" group-title="English",Hallmark
+http://fortv.cc:8080/ZUq2mM/919347/46719
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ekCYHakiq_g/YMz3yh3SUCI/AAAAAAAAB_k/16S_ASAzNn836K3ZGp5DluKzliHXyhETwCLcBGAsYHQ/s132/persiana.jpg" group-title="English",Persiana HD+
+https://euhls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="English",Persiana Cinema
+https://cinehls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Farsi",Persiana One
+https://onehls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Farsi",Persiana Latino
+https://latinohls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Farsi",Persiana Family
+https://familyhls.persiana.live/hls/stream.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Farsi",Persiana Comedy
+https://comedyhls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Farsi",Persiana Sience
+https://scihls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Farsi",Persiana Two
+https://twohls.persiana.live/hls/stream.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="English",Cinevault Murder Mayhem
 https://gsn-cinevault-70s-1-us.vizio.wurl.tv/playlist.m3u8
@@ -1722,4 +1747,12 @@ http://d2e40kvaojifd6.cloudfront.net/stream/onyx/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-003uppEo2RU/YMz0Bh3U64I/AAAAAAAAB-Q/AqJ6udSMdNUaXI-1gmPd3AuUSTCEPQLCgCLcBGAsYHQ/s512/cinefilm.jpg" group-title="English",Cinefilm
 https://gintna100.tulix.tv/gin_live/cine-film/8a36f29eb418f3c9f25c8e1e76e2c93d/60ce16e2/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="English", MBC Action
+https://airmaxtv.online/ssiptv2024/ssiptv2025/346.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="English", MBC Action-2
+http://154.58.202.18:8080/mbc2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/MBC_Max_logo.png" group-title="English",MBC Maxx
+https://airmaxtv.online/ssiptv2024/ssiptv2025/347.m3u8
 
