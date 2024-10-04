@@ -1,29 +1,33 @@
-#EXTINF:-1 tvg-logo="" group-title="Italian",Rai Premuim
-http://45.65.112.49:8000/play/a0m6
-
-#EXTINF:-1 tvg-logo="" group-title="Italian",Rai movie
-http://45.65.112.49:8000/play/a07c
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1200px-Rai_1_-_Logo_2016.svg.png" group-title="Italian",Rai 1
-http://62.210.123.134:98/live/an75d/75d/166.ts?Billybob.is.a.hero!
+http://85.209.248.3:8080/Rai1HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1280px-Rai_1_-_Logo_2016.svg.png"  group-title="Italian",Rai 1_2
 http://45.65.112.49:8000/play/a078
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1280px-Rai_1_-_Logo_2016.svg.png"  group-title="Italian",Rai 1_3
-http://pro-solut-xi.eu:5436/bossna/testiptvvv/10090
+http://62.210.123.134:98/live/an75d/75d/166.ts?Billybob.is.a.hero!
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1280px-Rai_1_-_Logo_2016.svg.png"  group-title="Italian",Rai 1_4
 https://m3u.iranvids.com/rai01/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1280px-Rai_1_-_Logo_2016.svg.png"  group-title="Italian",Rai 1_5
-http://85.209.248.3:8080/Rai1HD/index.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Italian",Rai 2
-http://pro-solut-xi.eu:5436/bossna/testiptvvv/10091
+http://85.209.248.3:8080/Rai2HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Italian",Rai 2
 http://45.65.112.49:8000/play/a079
+
+#EXTINF:-1 tvg-logo="" group-title="Italian",Rai movie_1
+http://85.209.248.3:8080/RaiMovieHD/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Italian",Rai movie_2
+http://45.65.112.49:8000/play/a07c
+
+#EXTINF:-1 tvg-logo="" group-title="Italian",Rai Premuim_1
+http://85.209.248.3:8080/RaiPremiumHD/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Italian",Rai Premuim_2
+http://45.65.112.49:8000/play/a0m6
 
 #EXTINF:-1 tvg-logo="" group-title="Italian",Rakuten Top Free Italy 1
 https://rakuten-topfree-6-eu.rakuten.wurl.tv/playlist.m3u8
@@ -34,17 +38,14 @@ https://rakuten-tvshows-6-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italian", Rakuten Comedy Movies Italy 1
 https://rakuten-comedymovies-6-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Italian", Rakuten Action Movies Italy 1
-https://rakuten-actionmovies-6-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italian", Rakuten Thriller Movies Italy 1
+https://rakuten-thriller-6-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Italian",Rakuten Family Italy 1
 https://rakuten-family-6-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="Italian",Rakuten Family Italy 1
-https://rakuten-family-6-it.plex.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Italian",Rakuten Spotlight Italy 1
-https://rakuten-spotlight-6-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italian",Rakuten Romance Italy 1
+https://rakuten-romance-6-it.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W9zQhyr.jpg" group-title="Italian",Bizzarro Movies
 https://minerva-bizzarromovies-1-eu.rakuten.wurl.tv/playlist.m3u8
