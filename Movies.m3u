@@ -86,8 +86,22 @@ https://m3u.iranvids.com/mbc02/output.m3u8
 #EXTINF:-1 tvg-logo="" group-title="English",MBC 2-2
 http://154.58.202.185:8000/play/a049
 
+#EXTINF:-1,Movie 01
+http://yesimes.oknirvana.club:8880/DAANM258/VDYSsuChCe/3120
+
+#EXTINF:-1,Movie 02
+http://yesimes.oknirvana.club:8880/DAANM258/VDYSsuChCe/3121
+
+#EXTINF:-1,Movie 03
+http://yesimes.oknirvana.club:8880/DAANM258/VDYSsuChCe/3122
+
+#EXTINF:-1,Movie 04
+http://yesimes.oknirvana.club:8880/DAANM258/VDYSsuChCe/3123
+
 #EXTINF:-1,GEM Onyx
-http://175.107.244.52:4457/play/a05l/index.m3u8
+https://glwizhstb41.glwiz.com/ONYX_HD/ONYX_High.m3u8
+#EXTINF:-1,GEM Film
+https://glwizhstb41.glwiz.com/GemFilm_HD/GemFilm_High.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="English",HBO 1
 http://41.205.93.154/HBO/index.m3u8
@@ -95,29 +109,8 @@ http://41.205.93.154/HBO/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="English",HBO 2
 https://fl5.moveonjoy.com/HBO_2/index.m3u8
 
-#EXTINF:-1,017 HBO
-http://138.219.58.234:8112/play/017
 
-#EXTINF:-1,018 HBO FAMILY
-http://138.219.58.234:8112/play/018
 
-#EXTINF:-1,019 HBO PLUS
-http://138.219.58.234:8112/play/019
-
-#EXTINF:-1,020 HBO XTREME HD
-http://138.219.58.234:8112/play/020
-
-#EXTINF:-1,021 HBO 2
-http://138.219.58.234:8112/play/021
-
-#EXTINF:-1,024 DISCOVERY CHANNEL HD
-http://138.219.58.234:8112/play/024
-
-#EXTINF:-1,025 ANIMAL PLANET HD
-http://138.219.58.234:8112/play/025
-
-#EXTINF:-1,027 NAT GEO HD
-http://138.219.58.234:8112/play/027
 
 #EXTINF:-1 tvg-logo="" group-title="English",Groovy  
 https://web.onair-radio.eu/groovytv/groovytv/playlist.m3u8
