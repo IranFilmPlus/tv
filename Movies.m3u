@@ -29,12 +29,6 @@ http://85.209.248.3:8080/RaiPremiumHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italian",Rai Premuim_2
 http://45.65.112.49:8000/play/a0m6
 
-#EXTINF:-1 tvg-logo="" group-title="Italian",Rakuten Top Free Italy 1
-https://rakuten-topfree-6-eu.rakuten.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Italian",Rakuten TV Shows Italy 1
-https://rakuten-tvshows-6-eu.rakuten.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Italian", Rakuten Comedy Movies Italy 1
 https://rakuten-comedymovies-6-eu.rakuten.wurl.tv/playlist.m3u8
 
@@ -53,17 +47,17 @@ https://minerva-bizzarromovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E9PCiwM.png" tvg-url="" group-title="Italian",Cinema Segreto
 https://minerva-cinemasegreto-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="English",Rakuten Top Free UK
-https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="English",Rakuten TV Shows UK
 https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="English",Rakuten Comedy Movies UK 
 https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="English",Rakuten Action Movies UK 
-https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="English",Rakuten thriller Movies UK 
+https://rakuten-thriller-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="English",Rakuten Romance Movies UK 
+https://rakuten-romance-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="English",Rakuten Family UK 
 https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -97,6 +91,9 @@ http://yesimes.oknirvana.club:8880/DAANM258/VDYSsuChCe/3122
 
 #EXTINF:-1,Movie 04
 http://yesimes.oknirvana.club:8880/DAANM258/VDYSsuChCe/3123
+
+#EXTINF:-1,FX
+http://yesimes.oknirvana.club:8880/DAANM258/VDYSsuChCe/3127
 
 #EXTINF:-1,GEM Onyx
 https://glwizhstb41.glwiz.com/ONYX_HD/ONYX_High.m3u8
