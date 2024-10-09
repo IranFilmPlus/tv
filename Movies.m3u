@@ -78,7 +78,7 @@ https://hls.247box.live/hls/stream.m3u8
 https://familyhls.avatv.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/gUoenCGAE0avIT2WU0C7FbjWLLDX1ymI2bmAyjZ8Ez09sB_CemD099MYRRL_pK7mc9LsRYmuXw3ub8pk1mnaf5901GhVWPC8zBneMUvtVULpGxruilkSncXeuElG8JI" group-title="English",Dubai One
-https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="English",MBC 2
 https://m3u.iranvids.com/mbc02/output.m3u8
